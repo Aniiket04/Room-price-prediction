@@ -1,1 +1,1 @@
-# Room-price-prediction
+The goal of this machine learning project is to develop a predictive model that can estimate the price of a room based on two main features: locality and area (in square feet). The project involves using historical data of room prices, the corresponding area, and locality to train the model using Linear Regression.
