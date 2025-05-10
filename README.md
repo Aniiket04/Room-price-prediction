@@ -46,7 +46,7 @@ merged
 ```
 axis='columns' (or axis=1) tells pandas to concatenate columns, not rows
 
-3.3 Drop two columns from the merged DataFrame:
+3.3 Drop columns from the merged DataFrame:
 ```python
 final=merged.drop(["town","west windsor"],axis="columns")
 final
