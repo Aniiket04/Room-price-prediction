@@ -74,7 +74,7 @@ y
 model.fit(x,y)
 ```
 
-### 5. Model Evaluation
+### 5. Model Prediction
 Predictions on the held-out dataset.
 ```python
 model.predict([[2900,0,1]])
